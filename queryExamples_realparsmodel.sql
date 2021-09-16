@@ -1,5 +1,3 @@
--- this document is here to display what I have learned about (My)SQL , database from REALPARS
-
 -- syntax for writing simple querys. Not all keywords need to be used, but it is important to KEEP THE ORDER !
 
 -- CREATE VIEW AS ....			-> view (with a name) is created instead of query 
